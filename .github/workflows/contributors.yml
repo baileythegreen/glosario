@@ -15,11 +15,11 @@ jobs:
     - uses: BobAnkh/add-contributors@master
       with:
         REPO_NAME: 'baileythegreen/glosario'
-        CONTRIBUTOR: '<h3>Contributors</h3>'
+        CONTRIBUTOR: '<!--Contributors-->'
         COLUMN_PER_ROW: '3'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        IMG_WIDTH: '100'
+        IMG_WIDTH: '90'
         FONT_SIZE: '14'
-        PATH: '/test.html'
+        PATH: '/CONTRIBUTORS.html'
         COMMIT_MESSAGE: 'docs(CONTRIBUTORS): update contributors'
         AVATAR_SHAPE: 'round'
