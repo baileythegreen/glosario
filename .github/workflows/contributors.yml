@@ -15,7 +15,7 @@ jobs:
       with:
         REPO_NAME: 'baileythegreen/glosario'
         CONTRIBUTOR: '### Contributors'
-        COLUMN_PER_ROW: '6'
+        COLUMN_PER_ROW: '3'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
