@@ -15,7 +15,7 @@ jobs:
     - uses: BobAnkh/add-contributors@master
       with:
         REPO_NAME: 'baileythegreen/glosario'
-        CONTRIBUTOR: '### Contributors'
+        CONTRIBUTOR: '<h3>Contributors</>'
         COLUMN_PER_ROW: '3'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
