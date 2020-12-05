@@ -27,6 +27,8 @@ permalink: /contributors/
             <sub style="font-size:14px"><b>Greg Wilson</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/ian-flores>
             <img src=https://avatars1.githubusercontent.com/u/18703558?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ian Flores Siaca />
@@ -71,6 +73,8 @@ permalink: /contributors/
             <sub style="font-size:14px"><b>Marcos Vital (LEQ-UFAL)</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/elletjies>
             <img src=https://avatars3.githubusercontent.com/u/28295969?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Angelique van Rensburg/>
@@ -115,6 +119,8 @@ permalink: /contributors/
             <sub style="font-size:14px"><b>Thomas Guignard</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/beatrizmilz>
             <img src=https://avatars2.githubusercontent.com/u/42153618?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Beatriz Milz/>
@@ -159,6 +165,8 @@ permalink: /contributors/
             <sub style="font-size:14px"><b>Yanina Bellini Saibene</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/AngeliqueV>
             <img src=https://avatars2.githubusercontent.com/u/69516258?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=AngeliqueV/>
