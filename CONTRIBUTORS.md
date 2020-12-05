@@ -4,3 +4,205 @@ permalink: /contributors/
 
 ### Contributors
 
+<table>
+<tr>
+    <td align="center">
+        <a href=https://github.com/fmichonneau>
+            <img src=https://avatars0.githubusercontent.com/u/5502922?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=François Michonneau/>
+            <br />
+            <sub style="font-size:14px"><b>François Michonneau</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/baileythegreen>
+            <img src=https://avatars0.githubusercontent.com/u/12277715?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=baileythegreen/>
+            <br />
+            <sub style="font-size:14px"><b>baileythegreen</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/gvwilson>
+            <img src=https://avatars2.githubusercontent.com/u/911566?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Greg Wilson/>
+            <br />
+            <sub style="font-size:14px"><b>Greg Wilson</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/ian-flores>
+            <img src=https://avatars1.githubusercontent.com/u/18703558?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ian Flores Siaca />
+            <br />
+            <sub style="font-size:14px"><b>Ian Flores Siaca </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/zkamvar>
+            <img src=https://avatars2.githubusercontent.com/u/3639446?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Zhian N. Kamvar/>
+            <br />
+            <sub style="font-size:14px"><b>Zhian N. Kamvar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/jsteyn>
+            <img src=https://avatars3.githubusercontent.com/u/6432530?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Jannetta Steyn/>
+            <br />
+            <sub style="font-size:14px"><b>Jannetta Steyn</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href=https://github.com/BatoolMM>
+            <img src=https://avatars1.githubusercontent.com/u/53487593?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Batool/>
+            <br />
+            <sub style="font-size:14px"><b>Batool</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/feddelegrand7>
+            <img src=https://avatars0.githubusercontent.com/u/28841210?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ihaddaden Mohamed El Fodil/>
+            <br />
+            <sub style="font-size:14px"><b>Ihaddaden Mohamed El Fodil</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/marcosvital>
+            <img src=https://avatars3.githubusercontent.com/u/13972235?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Marcos Vital (LEQ-UFAL)/>
+            <br />
+            <sub style="font-size:14px"><b>Marcos Vital (LEQ-UFAL)</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/elletjies>
+            <img src=https://avatars3.githubusercontent.com/u/28295969?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Angelique van Rensburg/>
+            <br />
+            <sub style="font-size:14px"><b>Angelique van Rensburg</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/TomKellyGenetics>
+            <img src=https://avatars1.githubusercontent.com/u/5493325?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Tom Kelly/>
+            <br />
+            <sub style="font-size:14px"><b>Tom Kelly</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/jduckles>
+            <img src=https://avatars2.githubusercontent.com/u/119403?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Jonah Duckles/>
+            <br />
+            <sub style="font-size:14px"><b>Jonah Duckles</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href=https://github.com/tobyhodges>
+            <img src=https://avatars0.githubusercontent.com/u/9694524?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Toby Hodges/>
+            <br />
+            <sub style="font-size:14px"><b>Toby Hodges</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/konrad>
+            <img src=https://avatars0.githubusercontent.com/u/49392?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Konrad Förstner/>
+            <br />
+            <sub style="font-size:14px"><b>Konrad Förstner</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/timtomch>
+            <img src=https://avatars1.githubusercontent.com/u/7302575?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Thomas Guignard/>
+            <br />
+            <sub style="font-size:14px"><b>Thomas Guignard</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/beatrizmilz>
+            <img src=https://avatars2.githubusercontent.com/u/42153618?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Beatriz Milz/>
+            <br />
+            <sub style="font-size:14px"><b>Beatriz Milz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/villares>
+            <img src=https://avatars2.githubusercontent.com/u/3694604?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Alexandre B A Villares/>
+            <br />
+            <sub style="font-size:14px"><b>Alexandre B A Villares</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/matiasmicheletto>
+            <img src=https://avatars3.githubusercontent.com/u/21092034?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Matias Micheletto/>
+            <br />
+            <sub style="font-size:14px"><b>Matias Micheletto</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href=https://github.com/RabeaMue>
+            <img src=https://avatars3.githubusercontent.com/u/42644523?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rabea Müller/>
+            <br />
+            <sub style="font-size:14px"><b>Rabea Müller</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/rivaquiroga>
+            <img src=https://avatars1.githubusercontent.com/u/31421616?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Riva Quiroga/>
+            <br />
+            <sub style="font-size:14px"><b>Riva Quiroga</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/yabellini>
+            <img src=https://avatars0.githubusercontent.com/u/2473676?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Yanina Bellini Saibene/>
+            <br />
+            <sub style="font-size:14px"><b>Yanina Bellini Saibene</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/AngeliqueV>
+            <img src=https://avatars2.githubusercontent.com/u/69516258?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=AngeliqueV/>
+            <br />
+            <sub style="font-size:14px"><b>AngeliqueV</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/callumrollo>
+            <img src=https://avatars0.githubusercontent.com/u/28703282?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Callum Rollo/>
+            <br />
+            <sub style="font-size:14px"><b>Callum Rollo</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/jas1>
+            <img src=https://avatars2.githubusercontent.com/u/1795403?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Julio Spairani/>
+            <br />
+            <sub style="font-size:14px"><b>Julio Spairani</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <a href=https://github.com/mpaulacaldas>
+            <img src=https://avatars1.githubusercontent.com/u/33395215?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Maria Paula Caldas/>
+            <br />
+            <sub style="font-size:14px"><b>Maria Paula Caldas</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/pri-hoh>
+            <img src=https://avatars0.githubusercontent.com/u/30275921?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Priscila Hohberg/>
+            <br />
+            <sub style="font-size:14px"><b>Priscila Hohberg</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/beacurious>
+            <img src=https://avatars0.githubusercontent.com/u/32319878?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=beacurious/>
+            <br />
+            <sub style="font-size:14px"><b>beacurious</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
