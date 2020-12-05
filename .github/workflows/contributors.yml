@@ -20,6 +20,6 @@ jobs:
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
-        PATH: '/CONTRIBUTORS.html'
+        PATH: '/test.html'
         COMMIT_MESSAGE: 'docs(CONTRIBUTORS): update contributors'
         AVATAR_SHAPE: 'round'
