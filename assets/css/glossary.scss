@@ -2,6 +2,7 @@
 ---
 
 body {
+    margin: 0;
     background-attachment: fixed;
     overflow: auto;
     overflow-x: hidden;
@@ -115,8 +116,8 @@ body {
     #content-wrapper {
         padding-top: 30px;
         border-top: solid 1px #fff;
-        margin-right: 0cm;
-        margin-left: 0cm;
+        /* margin-right: 0cm; */
+        /* margin-left: 0cm; */
     }
       
     .clearfix:after {
@@ -138,12 +139,12 @@ body {
       
     #main-content-ltr {
         float: left;
-        margin-left: 1cm;
+        /* margin-left: 1cm; */
     }
       
     #main-content-rtl {
         float: right;
-        margin-right: 1cm;
+        /* margin-right: 1cm; */
     }
      
     #main-content-ltr,
