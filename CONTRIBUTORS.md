@@ -1,2 +1,6 @@
+---
+permalink: /contributors/
+---
+
 ### Contributors
 
