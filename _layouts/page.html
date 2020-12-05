@@ -16,10 +16,10 @@
     </section>
         <div class="sticky-home">
             {% for lang in site.languages %}
-              {% assign link = lang.key | prepend: './' | append: '/' | site.baseurl %}
+              {% assign link = lang.key | prepend: './' | append: '/' %}
                 <font color="white" size="5px" face="arial">
                     <a class="lang_links"
-                       href="{{link}}">{{lang.name}}
+                       href="/{{link}}">{{lang.name}}
                     </a>
                     <br>
                 </font>
