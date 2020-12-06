@@ -17,6 +17,17 @@ body {
     color: white;
 }
 
+header.h1,
+header.h2,
+header.h3 {
+    color: white;
+    font-family: Arial, Helvetica, sansserif;
+}
+
+header.a {
+    text-decoration: none;
+}
+
 /* For larger devices */
 @media screen and (min-width: 769px) {
 
