@@ -18,10 +18,18 @@
   </div>
   <div class="right">
     <font class="title_font">
-      <h1>{{the_title}}</h1>
-      <div class="describe">
-        <h2>{{ the_name | default: site.description }}</h2>
+
+      <div class="topnav">
+      <a href="{{'/' | relative_url }}">
+         <h1>{{the_title}}</h1>
+      </a>
+      <a href="{{'/' | relative_url }}/contributors">Our Contributors</a>
+      <a href="{{'/' | relative_url }}/contributors/#how_to_contribute">Get Involved</a>
+      <!--a href="{{site.baseurl}}/about.md">About</a-->
       </div>
+       <!--div class="describe">
+        <h2>{{ the_name | default: site.description }}</h2>
+      </div-->
     </font>
   </div>
 </div>
