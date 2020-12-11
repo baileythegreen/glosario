@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: BobAnkh/add-contributors@master
+    - uses: baileythegreen/add-contributors@patch-1
       with:
         REPO_NAME: 'baileythegreen/glosario'
         CONTRIBUTOR: '<!--Contributors-->'
